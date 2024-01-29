@@ -1,4 +1,4 @@
-![Hugo Allainé's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoallaine&theme=shadow_red&show_icons=true)
+<center>![Hugo Allainé's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugoallaine&theme=shadow_red&show_icons=true)</center>
    
 ---   
    
