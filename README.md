@@ -1,7 +1,11 @@
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=hugoallaine&theme=shadow_red&show_icons=true" alt="Hugo Allainé's GitHub Stats" /> 
    
 ---   
-Hi ! I'm Hugo Allainé
+<h1 align="center">Hi 👋, I'm Hugo Allainé</h1>
+
+- 🎓 I’m currently gearing up for an engineering degree at [**UTBM**](https://www.utbm.fr/)
+- 🌱 I’m currently learning Computer Science 
+- 📫 How to reach me : **quentin.balezeau@utbm.fr**
 ---   
 
 <div align="center">
