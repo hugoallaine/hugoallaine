@@ -1,7 +1,7 @@
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=hugoallaine&theme=shadow_red&show_icons=true" alt="Hugo Allainé's GitHub Stats" /> 
    
 ---   
-Hi !
+Hi ! I'm Hugo Allainé
 ---   
 
 <div align="center">
