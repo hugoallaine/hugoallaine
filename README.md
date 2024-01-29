@@ -5,7 +5,7 @@
 
 - 🎓 I’m currently gearing up for an engineering degree at [**UTBM**](https://www.utbm.fr/)
 - 🌱 I’m currently learning Computer Science 
-- 📫 How to reach me : **quentin.balezeau@utbm.fr**
+- 📫 How to reach me : **hugo@allaine.cc**
 ---   
 
 <div align="center">
