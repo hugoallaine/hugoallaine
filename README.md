@@ -9,6 +9,6 @@
 ---   
 
 <div align="center">
-<img align="center" width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugoallaine&theme=2077" alt="Most Used Languages" />   
-<img align="center" width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugoallaine&theme=2077" alt="Most Commited Languages" />
+<img align="center" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugoallaine&theme=2077" alt="Most Used Languages" />   
+<img align="center" width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugoallaine&theme=2077" alt="Most Commited Languages" />
 </div>
