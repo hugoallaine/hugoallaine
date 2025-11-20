@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Hugo Allainé</h1>
 
 - 🎓 I’m currently gearing up for an engineering degree at [**UTBM**](https://www.utbm.fr/)
-- 🌱 I’m currently learning Computer Science 
+- 🌱 I’m currently learning Computer Science
+- ☁️ Cloud Native enjoyer
 - 📫 How to reach me : **hugo@allaine.cc**
 ---   
 
